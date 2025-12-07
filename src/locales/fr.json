@@ -1,0 +1,14 @@
+{
+"navbar": {
+"home": "Accueil",
+"projects": "Projets",
+"gallery": "Galerie",
+"donate": "Faire un Don",
+"contact": "Contact"
+},
+"home": {
+"title": "Autonomisation des Femmes Autochtones en RDC",
+"mission": "Notre mission est de promouvoir l'autonomie et la dignité des femmes autochtones.",
+"cta": "Soutenir Nos Actions"
+}
+}

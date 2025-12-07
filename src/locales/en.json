@@ -1,0 +1,14 @@
+{
+"navbar": {
+"home": "Home",
+"projects": "Projects",
+"gallery": "Gallery",
+"donate": "Donate",
+"contact": "Contact"
+},
+"home": {
+"title": "Empowering Indigenous Women in the DRC",
+"mission": "Our mission is to promote the dignity and autonomy of indigenous women.",
+"cta": "Support Our Work"
+}
+}
